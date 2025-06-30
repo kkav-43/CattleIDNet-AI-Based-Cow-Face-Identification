@@ -1,0 +1,9 @@
+```txt
+torch>=2.0
+ultralytics
+opencv-python
+Pillow
+numpy
+matplotlib
+scikit-learn
+transformers
